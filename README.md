@@ -1,11 +1,28 @@
 
 # React + Redux + JWT Authentication (Full Stack)
 This project demonstrates:
+
 Authentication using JWT
+
 Frontend state handling using Redux
+
 Protected routes using React Router
+
 Automatic token persistence using localStorage
+
 Backend validation of JWT using Express & jsonwebtoken
+
+##Features
+
+User Login: Validates credentials and returns JWT
+
+Token Persistence: Stored in Redux + localStorage
+
+Protected Route:	Only accessible with valid token
+
+Logout:	Clears token everywhere
+
+Full Stack:git	Node + Express backend
 
 
 # Getting Started with Create React App
